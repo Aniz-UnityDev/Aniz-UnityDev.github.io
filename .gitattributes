@@ -1,3 +1,10 @@
 .gz filter=lfs diff=lfs merge=lfs -text
 .gif filter=lfs diff=lfs merge=lfs -text
 .txt filter=lfs diff=lfs merge=lfs -text
+C:/MyProjects/Webglrelease/StreamingAssets/ScreenShots/preview_daring.gif filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/ScreenShots/preview_daring.gif filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/ScreenShots/preview_capture_v2.gif filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/VRM.Samples/Motions/text.txt filter=lfs diff=lfs merge=lfs -text
+Build/Build.data.gz filter=lfs diff=lfs merge=lfs -text
+Build/Build.wasm.gz filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/VRM.Samples/Motions/test.txt filter=lfs diff=lfs merge=lfs -text
